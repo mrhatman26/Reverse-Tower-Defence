@@ -1,0 +1,1 @@
+controller_check_escape_restart();

@@ -10,8 +10,11 @@
   },
   "defaultScriptType":0,
   "Folders":[
+    {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"System","folderPath":"folders/Objects/System.yy","name":"System","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Scripts","folderPath":"folders/Scripts.yy","name":"Scripts","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Object Scripts","folderPath":"folders/Scripts/Object Scripts.yy","name":"Object Scripts","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
@@ -23,7 +26,10 @@
   "name":"Tower Attack",
   "resources":[
     {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},},
+    {"id":{"name":"obj_debug_handler","path":"objects/obj_debug_handler/obj_debug_handler.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"scr_obj_controller","path":"scripts/scr_obj_controller/scr_obj_controller.yy",},},
+    {"id":{"name":"scr_obj_debug_handler","path":"scripts/scr_obj_debug_handler/scr_obj_debug_handler.yy",},},
     {"id":{"name":"scr_startup","path":"scripts/scr_startup/scr_startup.yy",},},
     {"id":{"name":"scr_version_handling","path":"scripts/scr_version_handling/scr_version_handling.yy",},},
   ],

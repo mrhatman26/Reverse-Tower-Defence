@@ -7,6 +7,7 @@ global.debug = false;
 global.current_version = [-2, -2, -2];
 /*STARTUP CODE*/
 version_read();
+//Developer mode startup
 if (DEVELOPER_MODE){
 	if (show_question("Enable debug mode?")){
 		global.debug = true;
