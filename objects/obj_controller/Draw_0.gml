@@ -1,0 +1,1 @@
+draw_text(32, 48, string(instance_number(obj_player_soldier)));

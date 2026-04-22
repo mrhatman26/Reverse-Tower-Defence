@@ -1,0 +1,1 @@
+draw_healthbar(half_screen_width - 128, 32, half_screen_width + 128, 64, stronghold_health, c_black, c_red, c_green, 1, true, true);

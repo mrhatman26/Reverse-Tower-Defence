@@ -1,5 +1,6 @@
 /*VARIABLES*/
 //Macros
+//Debug/System
 #macro DEVELOPER_MODE true
 //Debug global vars
 global.debug = false;

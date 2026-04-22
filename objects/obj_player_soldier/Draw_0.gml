@@ -1,0 +1,1 @@
+draw_sprite(spr_player_soldier_default, 0, x, y); 

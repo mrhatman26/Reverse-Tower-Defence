@@ -1,0 +1,2 @@
+type, health, speed, attack, defence
+default, 100, 8, 4, 8
